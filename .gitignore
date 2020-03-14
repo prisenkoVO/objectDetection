@@ -105,3 +105,12 @@ venv.bak/
 
 # resnet files
 *.h5
+
+# media files
+*.mp4
+*.img
+*.jpg
+*.jpeg
+*.MOV
+*.caffemodel
+*.avi
